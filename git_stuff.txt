@@ -1,0 +1,22 @@
+git &  github youtube URL
+
+https://www.youtube.com/watch?v=J_Clau1bYco
+
+hithub account created:	www.github.com
+(if not signin, click 'sign in' and put in the following info:)
+UID: hclui
+email: hclui@eipgroup.asia
+password: factor517space
+
+2 repos created. 
+use 'FactorSpace1' as it is configured and cloned to git command window;
+files repreciated to C:\Users\Ho Chung LUI\Documents\PythonCode\FactorSpace1
+
+
+commands:
+'cd' to go to home director
+cd /c to go to c:\
+
+git config --global user.name "FactorSpace1" to set up user-name for git account
+git config --global user.email hclui@eipgroup.asia -- to set up git email
+git clone (past url path) --> to take files from repo to local files
